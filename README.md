@@ -4,8 +4,6 @@ An analytical project focused on payment reliability, open finance infrastructur
 
 The goal is to build a practical portfolio project for Senior Data Analyst, Product Analyst, Treasury Analytics and Analytics Engineering roles in European fintechs and banks.
 
-This repository will evolve gradually as I learn and apply Python, SQL, APIs, dbt, Git/GitHub, data modeling, financial analytics and dashboarding.
-
 ## Project Idea
 
 Financial institutions such as fintechs, digital banks and payment companies depend on reliable money movement infrastructure and disciplined treasury management.
